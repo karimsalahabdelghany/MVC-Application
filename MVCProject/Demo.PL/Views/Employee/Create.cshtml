@@ -1,0 +1,18 @@
+﻿@using Demo.PL.ViewModels
+@model EmployeeViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create New Employee</h1>
+<br />
+<form asp-action="Create" enctype="multipart/form-data">
+   <partial name="PartialViews/CreateEditPartialView"/>
+    <input type="Submit" value="Submit" class="btn btn-primary"/>
+    <a asp-action="Index" class="btn btn-light">Back to List</a>
+</form>
+@section ValidationScriptSection
+{
+   <partial name="_ValidationScriptsPartial"/>
+
+}

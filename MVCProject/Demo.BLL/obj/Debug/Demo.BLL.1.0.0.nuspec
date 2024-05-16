@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Demo.BLL</id>
+    <version>1.0.0</version>
+    <authors>Demo.BLL</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Demo.DAL" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll" target="lib\net5.0\Demo.BLL.dll" />
+  </files>
+</package>

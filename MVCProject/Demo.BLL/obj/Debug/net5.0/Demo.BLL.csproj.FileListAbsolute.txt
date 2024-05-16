@@ -1,0 +1,15 @@
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.Up2Date
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+F:\visual stadio projects\MVC Project\MVC Project\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll

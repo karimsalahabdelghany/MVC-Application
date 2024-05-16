@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\visual stadio projects\\MVC Project\\MVC Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|f:\\visual stadio projects\\mvc project\\mvc project\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|f:\\visual stadio projects\\mvc project\\mvc project\\demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|f:\\visual stadio projects\\mvc project\\mvc project\\demo.pl\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|f:\\visual stadio projects\\mvc project\\mvc project\\demo.pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|f:\\visual stadio projects\\mvc project\\mvc project\\demo.pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|f:\\visual stadio projects\\mvc project\\mvc project\\demo.pl\\views\\role\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\role\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|f:\\visual stadio projects\\mvc project\\mvc project\\demo.pl\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|f:\\visual stadio projects\\mvc project\\mvc project\\demo.pl\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59DDF83-37CB-49BF-B974-B0B30458037A}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAB4AAADAzMzMzOwwwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:05:50.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Startup.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Startup.cs",
+              "ToolTip": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Startup.cs",
+              "RelativeToolTip": "Demo.PL\\Startup.cs",
+              "ViewState": "AQIAACAAAABAm5mZmTk0wCgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:49:59.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Program.cs",
+              "ToolTip": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Program.cs",
+              "RelativeToolTip": "Demo.PL\\Program.cs",
+              "ViewState": "AQIAABQAAAAAaGZmZmb0v1kAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:47:22.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAcAAAAAADMzMzPbvxAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:22:31.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Views\\Role\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Role\\Details.cshtml",
+              "ToolTip": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Views\\Role\\Details.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Role\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T06:15:13.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Role\\Create.cshtml",
+              "ToolTip": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Role\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T05:24:09.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Role\\Index.cshtml",
+              "ToolTip": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T04:26:20.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\RoleController.cs",
+              "ToolTip": "F:\\visual stadio projects\\MVC Project\\MVC Project\\Demo.PL\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:55:36.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
